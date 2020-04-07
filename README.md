@@ -1,0 +1,2 @@
+# AriPlay
+投屏Demo，分别写了基于AVPlayer和MPMoviePlayerController两种
